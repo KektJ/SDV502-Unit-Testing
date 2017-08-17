@@ -1,0 +1,14 @@
+c:\users\bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\obj\Debug\SDV502 Unit Testing.csprojResolveAssemblyReference.cache
+c:\users\bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\bin\Debug\SDV502 Unit Testing.dll
+c:\users\bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\bin\Debug\SDV502 Unit Testing.pdb
+c:\users\bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\obj\Debug\SDV502 Unit Testing.dll
+c:\users\bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\obj\Debug\SDV502 Unit Testing.pdb
+c:\users\bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\bin\Debug\Fastway_Courier_Quote_v2.dll
+C:\Users\Bryce\documents\visual studio 2015\Projects\SDV502 Unit Testing\SDV502 Unit Testing\bin\Debug\Fastway_Courier_Quote_v2.xml
